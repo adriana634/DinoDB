@@ -1,2 +1,2 @@
-# DinoDB
+# DinoDB 🦖
 DinoAPI database
